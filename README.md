@@ -14,3 +14,6 @@ Passionate about technology and programming world, I enjoy to make applications 
     Node js.
 
 📫 How to reach me:
+
+dariosb96@gmail.com
++52 5564648409
