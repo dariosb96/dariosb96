@@ -1,16 +1,16 @@
-### Hi there 👋
-hello
-<!--
-**dariosb96/dariosb96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me 🔭
 
-Here are some ideas to get you started:
+I am a Computer system engineer from Mexico.
+Passionate about technology and programming world, I enjoy to make applications with javascript code language, my favorite part about make websites is the front-end part, i really like combine design and programming, 
+💬 Ask me about:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    JavaScript 
+    HTML.
+    CSS.
+    React.
+    Redux.
+    Sequelize.
+    PostgreSQL.
+    Node js.
+
+📫 How to reach me:
