@@ -63,6 +63,7 @@ I build modern, scalable and user-focused web applications using JavaScript tech
   <img src="https://github-readme-stats.vercel.app/api?username=dariosb96&show_icons=true&theme=tokyonight&cache_seconds=86400" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dariosb96&theme=tokyonight&cache_seconds=86400" />
 </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariosb96&layout=compact&theme=tokyonight&hide_border=true" />
 
 
 ---
