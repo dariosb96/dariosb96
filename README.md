@@ -1,80 +1,115 @@
-<h1 align="center">Hi 👋, I'm Dario Sosa</h1>
-<h3 align="center">💻 Junior Full Stack Developer from Mexico 🇲🇽</h3>
+# Hi, I'm Dario Sosa 👋
 
-<p align="center">
-I build modern, scalable and user-focused web applications using JavaScript technologies.
-</p>
+### Full Stack Developer | Mexico 🇲🇽
 
----
+I build and maintain web applications using **React, Next.js, TypeScript, Node.js, and PostgreSQL**. I enjoy turning ideas into functional products, combining clean interfaces, solid architecture, and practical solutions to real-world problems.
 
-## 🌎 Connect with me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/dario-sosa-lopez-58425615a/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://dario-sosa.vercel.app/" target="_blank">
-<img src="https://skillicons.dev/icons?i=vercel" />
-</a>
-<a href="mailto:dariosb96@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
+Currently focused on building production-ready applications and growing as a Full Stack Developer.
 
 ---
 
 ## 🚀 About Me
 
-💡 Passionate about building full stack applications  
-🎨 I love combining **design + code** on the frontend  
-🧠 Strong focus on scalable backend architectures  
-🌱 Currently improving my skills and building real-world projects  
-🌎 Open to **Remote Junior Full Stack Developer opportunities**
+- 💻 Full Stack Developer working with modern JavaScript technologies.
+- 🏗️ Built and maintain **RemiVet**, a booking platform used daily by a veterinary clinic.
+- 🎨 Interested in frontend architecture, UI/UX, and scalable application design.
+- 🔌 Experience building REST APIs, authentication systems, database integrations, and third-party services.
+- 🌎 Open to remote opportunities and collaboration.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,express,postgres,sequelize,tailwind,git,github" />
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+</p>
+
+**Backend & Database**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
+</p>
+
+**Tools & Workflow**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode" />
 </p>
 
 ---
 
-## 🔥 Featured Project
+## 💼 Featured Projects
 
-### 🛒 Dado App – Full Stack E-commerce Platform
+### 🐾 RemiVet — Veterinary Appointment Platform
 
-🔗 https://daddo.vercel.app/
+**Production application | Client project**
 
-- Full Stack app with **Node.js, Express, PostgreSQL, Sequelize, React & Redux**
-- JWT authentication & **role-based access control**
-- REST API with **filters, pagination, sorting & soft delete**
-- Cloudinary image upload
-- Admin dashboard with business metrics
-- Protected routes & dynamic UI by role
-- Mobile-first design with Tailwind CSS
+[Live Demo](https://remivet.vercel.app/)
+
+A booking management platform built for a veterinary clinic, designed to streamline appointment scheduling and daily operations.
+
+- Developed and deployed the application from scratch.
+- Public appointment booking flow with service and availability selection.
+- Appointment management and administration.
+- Google Calendar integration for appointment synchronization.
+- Authentication and role-based access.
+- Configurable business hours, availability, and scheduling rules.
+
+**Tech:** Next.js · TypeScript · Prisma · PostgreSQL · NextAuth · Google Calendar API
+
+### 🛒 Daddo — Full Stack E-commerce Platform
+
+**Personal project**
+
+[Live Demo](https://daddo.vercel.app/)
+
+A full stack e-commerce application featuring product management, authentication, and administrative tools.
+
+- REST API with filtering, pagination, sorting, and soft deletion.
+- JWT authentication and role-based access control.
+- Cloudinary image uploads.
+- Admin dashboard with business metrics.
+- Protected routes and dynamic interfaces.
+
+**Tech:** React · Redux · Node.js · Express · PostgreSQL · Sequelize · Tailwind CSS
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dariosb96&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dariosb96&theme=tokyonight&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dariosb96&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariosb96&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariosb96&layout=compact&theme=tokyonight&hide_border=true" />
 
-
----
-
-## 💼 Portfolio
-
-🌐 https://dario-sosa.vercel.app/
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dariosb96&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📫 Contact
+## 🌐 Connect With Me
 
-📧 dariosb96@gmail.com  
-📱 +52 55 6464 8409
+<p>
+  <a href="https://www.linkedin.com/in/dario-sosa-lopez-58425615a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://dario-sosa.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
+  <a href="mailto:dariosb96@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+**Portfolio:** https://dario-sosa.vercel.app/  
+**LinkedIn:** https://www.linkedin.com/in/dario-sosa-lopez-58425615a/  
+**Email:** dariosb96@gmail.com
+
+---
+
+<p align="center">
+  <i>Building useful products, one commit at a time.</i>
+</p>
